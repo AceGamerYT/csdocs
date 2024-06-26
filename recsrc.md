@@ -23,6 +23,7 @@ order: 999
 8. Yugenanime `Hexated`
 9. Animension `Storm`
 10. Gogo `English`
+11. AnPlay `Hindi`
 
 ### Asian Contents
 1. Sorastream `Hexated`
