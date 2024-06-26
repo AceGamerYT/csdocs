@@ -13,6 +13,7 @@ Direct Install | Short Codes { class="compact" }
 [!badge variant="secondary" icon="static/jo.png" text="Arabic"](https://cutt.ly/Jwyw1ZiR) | `Jwyw1ZiR`
 [!badge variant="secondary" icon="static/world.png" text="Hexated"](https://cutt.ly/mwyw140i) | `mwyw140i`
 [!badge variant="secondary" icon="static/in.png" text="Likdev"](https://cutt.ly/bwyw0Mcv) | `bwyw0Mcv`
+[!badge variant="secondary" icon="static/in.png" text="Hindi Providers"](https://cutt.ly/Bw7bLRx9) | `Bw7bLRx9`
 [!badge variant="secondary" icon="static/es.png" text="Storm"](https://cutt.ly/Swyw03Nc) | `Swyw03Nc`
 [!badge variant="secondary" icon="static/cr.png" text="Crunchyroll"](https://cutt.ly/wwyw2e4x) | `wwyw2e4x`
 [!badge variant="secondary" icon="static/fr.png" text="French"](https://cutt.ly/jwyw2fJc) | `jwyw2fJc`
